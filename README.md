@@ -1,3 +1,5 @@
+fix: 明暗主题转变按钮在窗口足够大时无法点击的问题
+
 > [!NOTE]
 > This project is no longer actively maintained. If you are interested in this theme, it is recommended to use [the new Astro version](https://github.com/saicaca/fuwari).
 > 
