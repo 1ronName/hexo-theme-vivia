@@ -1,5 +1,8 @@
-fix: 明暗主题转变按钮在窗口足够大时无法点击的问题
+issue 1: 明暗主题转变按钮在窗口足够大时无法点击的问题
+issue 2: 返回顶部按钮的位置
+算了，凑合着用吧，第一个问题昨天修好了，但是是在 node_modules 里改的
 
+---
 > [!NOTE]
 > This project is no longer actively maintained. If you are interested in this theme, it is recommended to use [the new Astro version](https://github.com/saicaca/fuwari).
 > 
